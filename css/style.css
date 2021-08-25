@@ -1,0 +1,76 @@
+.customSidenav li {
+    padding: 0 20px;
+}
+
+li.sidenavHeading {
+    padding: 15px 40px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+ul.customSidenav li a {
+    color: #818181;
+    padding-left: 50px;
+}
+
+.customSidenav .dashboard {
+    background: url(../icons/dashboard_gray.svg) no-repeat 20px 48%;
+    background-size: 20px;
+}
+
+.customSidenav .dashboard:hover {
+    background: url(../icons/dashboard_white.svg) no-repeat 20px 48%;
+    background-size: 20px;
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.customSidenav .userProfile {
+    background: url(../icons/account_gray.svg) no-repeat 20px 48%;
+    background-size: 20px;
+}
+
+.customSidenav .userProfile:hover {
+    background: url(../icons/account_white.svg) no-repeat 20px 48%;
+    background-size: 20px;
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.customSidenav .maps {
+    background: url(../icons/map_gray.svg) no-repeat 20px 48%;
+    background-size: 20px;
+}
+
+.customSidenav .maps:hover {
+    background: url(../icons/map_white.svg) no-repeat 20px 48%;
+    background-size: 20px;
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.customSidenav .notification {
+    background: url(../icons/notify_gray.svg) no-repeat 20px 48%;
+    background-size: 20px;
+}
+
+.customSidenav .notification:hover {
+    background: url(../icons/notify_white.svg) no-repeat 20px 48%;
+    background-size: 20px;
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.customSidenav .support {
+    background: url(../icons/support_gray.svg) no-repeat 20px 48%;
+    background-size: 20px;
+}
+
+.customSidenav .support:hover {
+    background: url(../icons/support_white.svg) no-repeat 20px 48%;
+    background-size: 20px;
+    background-color: #d81b60;
+    color: #fff;
+}
